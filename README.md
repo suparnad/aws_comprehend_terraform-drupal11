@@ -1,6 +1,6 @@
 # Terraform - Amazon Comprehend Custom Classifier Deployment
 
-This project provisions AWS resources for a custom document classification workflow using Amazon Comprehend, S3, and IAM. It supports integrating with a Drupal 11 site that automatically tags content using AI.
+Automatically classify the content of a Drupal node (like an article) based on its body text, using a trained machine learning model, and return a predicted label (e.g. "Research", "Admissions"). This project provisions AWS resources for a custom document classification workflow using Amazon Comprehend, S3, and IAM. It supports integrating with a Drupal 11 site that automatically tags content using AI.
 
 ---
 
